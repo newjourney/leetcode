@@ -2,6 +2,11 @@ package bytedance.string;
 
 import java.util.Arrays;
 
+/**
+ * 567. 字符串的排列
+ * 
+ * @author xingkai.zhang
+ */
 public class CheckInclusion {
 
     public static boolean method1(String s1, String s2) {

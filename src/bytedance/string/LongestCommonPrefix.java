@@ -1,7 +1,8 @@
 package bytedance.string;
 
 /**
- * 最长公共前缀
+ * 14. 最长公共前缀
+ * 
  * @author xingkai.zhang
  */
 public class LongestCommonPrefix {

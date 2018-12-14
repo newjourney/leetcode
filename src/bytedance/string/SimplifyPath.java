@@ -3,7 +3,7 @@ package bytedance.string;
 import java.util.Stack;
 
 /**
- * 给定一个文档 (Unix-style) 的完全路径，请进行路径简化。
+ * 71. 给定一个文档 (Unix-style) 的完全路径，请进行路径简化。
  * 
  * 例如， path = "/home/", => "/home" path = "/a/./b/../../c/", => "/c"
  * 
